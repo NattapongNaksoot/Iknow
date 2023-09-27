@@ -1,0 +1,23 @@
+{
+  "name": "iknow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NattapongNaksoot/Iknow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NattapongNaksoot/Iknow/issues"
+  },
+  "homepage": "https://github.com/NattapongNaksoot/Iknow#readme",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2"
+  }
+}
