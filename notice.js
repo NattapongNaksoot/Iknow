@@ -13,6 +13,6 @@ npm install express
 
 cd ไป server
 npm sqlite3
-npm squelize 
+npm sequelize 
 
 */ 
